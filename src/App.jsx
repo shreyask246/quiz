@@ -49,6 +49,7 @@ const App = () => {
               <input type="password" id="pass" name="pass" />
             </label>
             <br />
+            <p>(Username is a.com and password is 1234)</p>
             <div className="flex-button">
               <button id="loginbutton" onClick={onClickbutton}>
                 Log In
